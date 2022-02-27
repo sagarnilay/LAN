@@ -1,4 +1,4 @@
 # Local Area Network (LAN) setup in Cisco Packet Tracer
 
 
-Check the connections between the PCs using ping command
+Three different local area networks connected with each other through a router
